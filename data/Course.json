@@ -1,0 +1,34 @@
+{
+  "totalCourses": 4,
+  "lastId": 6,
+  "courses": [
+    {
+      "courseId": 1,
+      "name": "Course1",
+      "code": "ECE1001",
+      "category": "ECE",
+      "instructor": "InfyVic"
+    },
+    {
+      "courseId": 2,
+      "name": "Course2",
+      "code": "CSE1002",
+      "category": "CS",
+      "instructor": "InfyVic"
+    },
+    {
+      "courseId": 4,
+      "name": "Course3",
+      "code": "ECE1002",
+      "category": "ECE",
+      "instructor": "IV"
+    },
+    {
+      "courseId": 6,
+      "name": "Course6",
+      "code": "ECE1003",
+      "category": "CS",
+      "instructor": "IV"
+    }
+  ]
+}

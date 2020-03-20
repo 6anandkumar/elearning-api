@@ -1,0 +1,22 @@
+{
+  "totalUsers": 2,
+  "lastId": 3,
+  "users": [
+    {
+      "userID": 1,
+      "username": "17BCE1090",
+      "firstName": "Anand",
+      "lastName": "Kumar",
+      "email": "6anandkumar@gmail.com",
+      "utype": "student"
+    },
+    {
+      "userID": 2,
+      "username": "InfyVic",
+      "firstName": "Infinite",
+      "lastName": "Victor",
+      "email": "InfyVic@gmail.com",
+      "utype": "instructor"
+    }
+  ]
+}
